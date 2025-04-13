@@ -10,10 +10,8 @@
 
 ## 👋 About Me  
 
-Hi there! I'm **Abdelrahman Hedia**, a passionate **Software Engineer** with expertise in **Backend Development and AI**. I love solving complex problems, optimizing performance, and building scalable solutions.  
+Hi there! I'm **Abdelrahman Hedia**, a **Software Engineer** with expertise in **Backend Development**. I am passionate about Software Engineering and how to turn dreams into reality, I am eager to learn new technologies and methodologies. Reading is my favorite hobby, fueling my desire for knowledge and personal growth. I love solving complex problems, optimizing performance, building scalable solutions and contributing in real-world Softwares.  
 
-- 💻 **Experienced in:** Python, C++, JavaScript, SQL and more
-- 🔥 **Passionate about:** Software Engineering and how to turn dreams into reality    
 ---
 
 💡 **I believe in writing clean, efficient, and scalable code that powers impactful solutions.**  
@@ -24,6 +22,7 @@ Hi there! I'm **Abdelrahman Hedia**, a passionate **Software Engineer** with exp
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
 </p>
@@ -63,11 +62,11 @@ Hi there! I'm **Abdelrahman Hedia**, a passionate **Software Engineer** with exp
 ### 🔥 Featured Repositories  
 
 <p align="left">
-  <a href="https://github.com/bodyhedia44/PROJECT_1">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bodyhedia44&repo=Flowise&theme=radical">
+  <a href="https://github.com/bodyhedia44/DBMS">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bodyhedia44&repo=DBMS&theme=radical">
   </a>
-  <a href="https://github.com/AbdelrahmanHedia/bodyhedia44">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bodyhedia44&repo=cellula&theme=radical">
+  <a href="https://github.com/bodyhedia44/go_starter">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bodyhedia44&repo=go_starter&theme=radical">
   </a>
 </p>
 
