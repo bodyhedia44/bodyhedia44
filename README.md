@@ -61,15 +61,13 @@ Hi there! I'm **Abdelrahman Hedia**, a **Software Engineer** with expertise in *
 
 ### 🔥 Featured Repositories  
 
-<p align="left">
-  <a href="https://github.com/bodyhedia44/DBMS">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bodyhedia44&repo=DBMS&theme=radical">
-  </a>
-  <a href="https://github.com/bodyhedia44/go_starter">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bodyhedia44&repo=go_starter&theme=radical">
-  </a>
-</p>
+### [🚀 DataBase Management System](https://github.com/bodyhedia44/DBMS)
+> Simple Relational Database Management System (RDBMS) in C++.
+---
 
+### [💻 Go Starter ](https://github.com/bodyhedia44/go_starter)
+> Robust foundation for building web applications using Go.
+---
 
 🌟 **More projects**: [Click Here](https://github.com/bodyhedia44?tab=repositories)
 
