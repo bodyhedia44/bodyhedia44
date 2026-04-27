@@ -39,8 +39,8 @@
 | [#4677](https://github.com/MariaDB/server/pull/4677) | Skip ignored domain IDs during GTID validation (714+ lines) | Replication | 🔍 Final Review |
 | [#4716](https://github.com/MariaDB/server/pull/4716) | Add `--validate-config` option for mariadbd | System | ✅ Approved |
 | [#4756](https://github.com/MariaDB/server/pull/4756) | Fix Bitmap assertion crash with 65+ col NATURAL JOIN | Query Optimizer | 🔍 Final Review |
-| [#4978](https://github.com/MariaDB/server/pull/4978) | Semi-sync must not await ACK for `skip_replication` events | Replication | ✅ Approved |
-| [#4993](https://github.com/MariaDB/server/pull/4993) | Change `--gtid-strict-mode` default to OFF | Replication | ✅ Approved |
+| [#4978](https://github.com/MariaDB/server/pull/4978) | Semi-sync must not await ACK for `skip_replication` events | Replication | 🔍 Final Review |
+| [#4993](https://github.com/MariaDB/server/pull/4993) | Change `--gtid-strict-mode` default to OFF | Replication | 🔍 Final Review |
 
 ---
 
