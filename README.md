@@ -20,7 +20,6 @@
 
 - 🐬 **Contributing to [MariaDB Server](https://github.com/MariaDB/server)** — Replication, Query Optimizer & System Features (C++)
 - 🐧 **Linux Foundation Mentee** — Web3j library (Java, 5M+ downloads)
-- 🇯🇵 **Traveled to Japan** for the Open Source Summit with the Linux Foundation
 - 🎓 **Computer Engineering** Graduate with Excellent Grade
 - 🏗️ I love building systems **from scratch** — OS, DBMS, Redis, HTTP servers, shells
 - 🔬 **Researching** AI-driven database auto-tuning with DeepMind's PBT
